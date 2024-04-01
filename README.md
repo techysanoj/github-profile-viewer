@@ -1,6 +1,7 @@
 # GitHub Profile Viewer Project
 
 This project is a GitHub Profile Viewer, designed to display information about GitHub users and their repositories(soon).
+## Access - [here]([https://your-vercel-deployment-url](https://github-profile-viewer-chi.vercel.app/))
 
 ## Screenshots
 
@@ -26,18 +27,18 @@ This project is a GitHub Profile Viewer, designed to display information about G
 
 ## Deployment
 
-This project is deployed on Vercel. You can access it [here]([https://your-vercel-deployment-url](https://github-profile-viewer-chi.vercel.app/)).
+This project is deployed on Vercel. You can access it [here]((https://github-profile-viewer-chi.vercel.app/)).
 
 ## How to Use
 
-1. Clone the repository to your local machine: git clone https://github.com/your-username/github-profile-viewer.git
+1. Clone the repository to your local machine: git clone https://github.com/techysanoj/github-profile-viewer.git
 2. Navigate to the project directory: cd github-profile-viewer
-3. Open your browser and visit [here]([https://your-vercel-deployment-url](https://github-profile-viewer-chi.vercel.app/)) to view the GitHub Profile Viewer.
+3. Open your browser and visit [here]((https://github-profile-viewer-chi.vercel.app/)) to view the GitHub Profile Viewer.
 
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/techysanoj).
+This project was created by [Sanoj](https://github.com/techysanoj).
 
 
 ## Contributing
