@@ -2,6 +2,11 @@
 
 This project is a GitHub Profile Viewer, designed to display information about GitHub users and their repositories(soon).
 
+## Screenshots
+
+![Screenshot1](/home-page.png)
+*Caption: Main page displaying user profile information and repository list.*
+
 ## Features
 
 - **Profile Information:** View basic information about a GitHub user, including their username, name, bio, location, and profile picture.
@@ -28,11 +33,6 @@ This project is deployed on Vercel. You can access it [here]([https://your-verce
 1. Clone the repository to your local machine: git clone https://github.com/your-username/github-profile-viewer.git
 2. Navigate to the project directory: cd github-profile-viewer
 3. Open your browser and visit [here]([https://your-vercel-deployment-url](https://github-profile-viewer-chi.vercel.app/)) to view the GitHub Profile Viewer.
-
-## Screenshots
-
-![Screenshot1](/home-page.png)
-*Caption: Main page displaying user profile information and repository list.*
 
 
 ## Credits
