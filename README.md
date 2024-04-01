@@ -1,7 +1,8 @@
 # GitHub Profile Viewer Project
 
 This project is a GitHub Profile Viewer, designed to display information about GitHub users and their repositories(soon).
-## Access - [here]([https://your-vercel-deployment-url](https://github-profile-viewer-chi.vercel.app/))
+## Access 
+[here](https://github-profile-viewer-chi.vercel.app/)
 
 ## Screenshots
 
@@ -27,7 +28,7 @@ This project is a GitHub Profile Viewer, designed to display information about G
 
 ## Deployment
 
-This project is deployed on Vercel. You can access it [here]((https://github-profile-viewer-chi.vercel.app/)).
+This project is deployed on Vercel. You can access it [here](https://github-profile-viewer-chi.vercel.app/).
 
 ## How to Use
 
